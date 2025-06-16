@@ -1,0 +1,121 @@
+.card {
+    position: absolute;
+    top: 0px;
+    left: 450px;
+    width: 375px;
+    height: 812px;
+    background: #F7F8F9;
+    opacity: 1;
+}
+
+.header {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 375px;
+    height: 68px;
+    background: #FFFFFF;
+    box-shadow: 0px 3px 6px #00000007;
+    opacity: 1;
+}
+
+.card-para {
+    position: absolute;
+    top: 120px;
+    left: 35px;
+    width: 337px;
+    height: 63px;
+    text-align: left;
+    font: normal normal normal 14px/22px Rubik;
+    letter-spacing: 0px;
+    color: #1D2226;
+    text-transform: capitalize;
+    opacity: 1;
+}
+
+.card-text {
+    position: absolute;
+    left: 20px;
+    width: 232px;
+    height: 48px;
+    text-align: left;
+    font: normal normal normal 18px/26px Rubik;
+    letter-spacing: 0px;
+    color: #1D2226;
+    opacity: 0.6;
+}
+
+.heading {
+    position: absolute;
+    top: 40px;
+    left: 20px;
+    width: 188px;
+    height: 69px;
+    text-align: left;
+    font: normal normal 600 28px/36px Rubik;
+    letter-spacing: 0px;
+    color: #1D2226;
+    opacity: 1;
+}
+
+.card-heading {
+    position: absolute;
+    top: 549px;
+    left: 20px;
+    width: 231px;
+    height: 33px;
+    text-align: left;
+    font: normal normal 600 28px/17px Rubik;
+    letter-spacing: 0px;
+    color: #1D2226;
+    opacity: 1;
+
+}
+
+.input {
+    width: 335px;
+    height: 40px;
+    background: #F7F8F9;
+    position: absolute;
+    left: 20px;
+    border: 1px solid #CBCBCB;
+    font: normal normal 600 13px/16px Rubik;
+}
+
+.input-login {
+    width: 335px;
+    height: 40px;
+    background: #F7F8F9;
+    position: absolute;
+    left: 20px;
+    border: 1px solid #CBCBCB;
+    font: normal normal normal 13px/16px Rubik;
+}
+
+.input-title {
+    position: absolute;
+    left: 34px;
+    height: 15px;
+    text-align: left;
+    background: #F7F8F9;
+    font: normal normal normal 13px/17px Rubik;
+    letter-spacing: 0px;
+    opacity: 1;
+    z-index: 1;
+
+}
+
+.link {
+    position: absolute;
+    left: 20px;
+    width: 335px;
+    height: 46px;
+    border-radius: 6px;
+    opacity: 1;
+    font: normal normal 600 16px/17px Rubik;
+    letter-spacing: 0px;
+}
+
+img {
+    border-radius: 50%;
+}
