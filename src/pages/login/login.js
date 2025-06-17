@@ -9,11 +9,11 @@ export function Login() {
                     <form action="/user">
                         <div className="form-group">
                             <label className="input-title" style={{ top: '185px', width: '96px', color: '#6C25FF' }} for="exampleInputEmail1">Email Address</label>
-                            <input type="text" className="form-control input-login" style={{ top: '194px' }} id="exampleInputEmail1" aria-describedby="emailHelp" placeholder='Enter email address' />
+                            <input type="text" className="form-control input" style={{ top: '194px', fontWeight: 'normal'}} id="exampleInputEmail1" aria-describedby="emailHelp" placeholder='Enter email address' />
                         </div>
                         <div className="form-group">
                             <label className="input-title" style={{ top: '248px', width: '95px', color: '#6C25FF' }} for="exampleInputPassword1">Password</label>
-                            <input type="text" className="form-control input-login" style={{ top: '257px' }} id="exampleInputPassword1" placeholder="Enter password" />
+                            <input type="text" className="form-control input" style={{ top: '257px', fontWeight: 'normal'}} id="exampleInputPassword1" placeholder="Enter password" />
                         </div>
                         <button type="submit" className="btn link" style={{top: '311px', background:'#CBCBCB', color: '#FFFFFF'}}>Login</button>
                     </form>

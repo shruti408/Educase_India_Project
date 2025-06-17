@@ -14,7 +14,7 @@ export function User() {
             <h6 className="card-title mb-2 ml-4">Marry Doe</h6>
             <p className="card-subtitle ml-4">Marry@Gmail.Com</p>
           </div>
-          <p className="card-para">Lorem Ipsum Dolor Sit Amet, Consetetur Sadipscing Elitr, Sed Diam Nonumy Eirmod Tempor Invidunt Ut Labore Et Dolore Magna Aliquyam Erat, Sed Diam</p>         
+          <p className="card-text">Lorem Ipsum Dolor Sit Amet, Consetetur Sadipscing Elitr, Sed Diam Nonumy Eirmod Tempor Invidunt Ut Labore Et Dolore Magna Aliquyam Erat, Sed Diam</p>         
         <hr/>
         </div>
       </div>
